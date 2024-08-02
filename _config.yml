@@ -14,12 +14,12 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 樺哥的個人部落格 # the main title
+title: 樺哥隨筆空間 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 程式教學、閱讀筆記、所思所想 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  這邊放我的 Python 程式設計教學、金融爬蟲教學、線上課程、讀書筆記、程式開發紀錄
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,13 +28,13 @@ url: 'https://Yuehua-Liu.github.io'
 github:
   username: Yuehua-Liu # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+  #username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Yuehua-Liu
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
