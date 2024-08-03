@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: My first Post
 date: 2024-08-03 18:40 +0800
 categories: [hello world]
 tags: [test]
