@@ -35,10 +35,8 @@ my_function()
 ![輸出結果](/assets/img/post_img/Python-10-Function—輪子只要造一次就好%208face9bd31db4c1aa22a942880725ada/Untitled.png)
 _輸出結果_
 
-<aside>
-📌 Function 的定義必須要在主程式之前，就是要前面先定義過才能引用，也就是電腦需要先知道到 Function 的定義，後面程式要使用時，電腦才知道這是什麼東西，否則會出錯喔！
-
-</aside>
+> Function 的定義必須要在主程式之前，就是要前面先定義過才能引用，也就是電腦需要先知道到 Function 的定義，後面程式要使用時，電腦才知道這是什麼東西，否則會出錯喔！
+{: .prompt-tip }
 
 ### 二、代入參數的 Function
 

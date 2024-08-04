@@ -16,7 +16,7 @@ timezone: Asia/Taipei
 
 title: 樺哥隨筆空間 # the main title
 
-tagline: 程式教學、閱讀筆記、所思所想 # it will display as the sub-title
+tagline: 程式教學、閱讀筆記、所思所想、生活分享 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   這邊放我的 Python 程式設計教學、金融爬蟲教學、線上課程、讀書筆記、程式開發紀錄

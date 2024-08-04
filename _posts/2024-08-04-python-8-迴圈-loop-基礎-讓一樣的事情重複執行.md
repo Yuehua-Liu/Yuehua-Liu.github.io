@@ -13,10 +13,8 @@ tags: [基礎, 迴圈]
 
 舉個例子：
 
-<aside>
-💡 有一個水果清單(fruit_list)，裡面分別存放'apple', 'banana', 'guava', 'pineapple'四種水果，我想依次把他們輸出，該怎麼做？
-
-</aside>
+> 有一個水果清單(fruit_list)，裡面分別存放'apple', 'banana', 'guava', 'pineapple'四種水果，我想依次把他們輸出，該怎麼做？
+{: .prompt-info }
 
 在還沒有學習迴圈前，直覺上想到的做法可能是
 
