@@ -4,5 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### 【簡介】
+
+我是 Yuehua-Liu (樺哥)
+
+充滿好奇、熱情探索這世界的冒險家！
+
+這裡是我的創作天地，主要分享程式相關技術文章，也分享生活所思、所想，如果你/妳喜歡我的創作，歡迎持續追蹤！
+
+### 【專長】
+
+多年服務於金融產業的軟體工程師，擅長金融領域程式設計，包含：網路金融爬蟲、金融資料庫、金融資訊分析、後台程式設計、程式交易等技術。
+
+### 【聯絡方式】
+
+合作、發案、授課邀約，皆可透過 LinkedIn 私訊 or 信箱聯繫
+
+Email：ffang55tw@gmail.com
