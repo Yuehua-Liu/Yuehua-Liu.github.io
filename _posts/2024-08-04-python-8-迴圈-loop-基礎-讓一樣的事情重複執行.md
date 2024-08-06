@@ -2,7 +2,7 @@
 layout: post
 title: Python-8-迴圈(Loop)(基礎)—讓一樣的事情重複執行！
 date: 2024-08-04 00:20 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 迴圈]
 ---
 ### 零、前言

@@ -2,7 +2,7 @@
 layout: post
 title: Python-(補充)如何善用 ChatGPT 加速學習程式語言
 date: 2024-08-04 00:58 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 資源包, ChatGPT, 學習效率]
 ---
 ### 零、前言

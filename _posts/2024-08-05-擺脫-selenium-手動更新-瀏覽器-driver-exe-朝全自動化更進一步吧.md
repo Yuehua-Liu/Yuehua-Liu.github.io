@@ -2,8 +2,8 @@
 layout: post
 title: 擺脫 Selenium 手動更新 瀏覽器 driver.exe，朝全自動化更進一步吧！
 date: 2024-08-05 20:48 +0800
-categories: “技術分享”
-tags: [”爬蟲”, “Selenium”, “自動化測試”, “版本差異”]
+categories: 技術分享
+tags: [爬蟲, Selenium, 自動化測試, 版本差異]
 ---
 
 ### 零、前言

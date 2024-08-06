@@ -2,7 +2,7 @@
 layout: post
 title: Python-(補充)基本Debug—程式寫錯沒關係！簡單小技巧教你找問題
 date: 2024-08-04 00:53 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 除錯]
 ---
 ### 零、前言

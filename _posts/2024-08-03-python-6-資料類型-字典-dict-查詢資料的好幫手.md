@@ -2,7 +2,7 @@
 layout: post
 title: Python-6-資料類型—字典 Dict—查詢資料的好幫手
 date: 2024-08-03 22:38 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 資料結構]
 ---
 ### 零、前言

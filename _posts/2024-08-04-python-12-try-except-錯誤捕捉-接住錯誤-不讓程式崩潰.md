@@ -2,7 +2,7 @@
 layout: post
 title: Python-12-try…except 錯誤捕捉—接住錯誤，不讓程式崩潰
 date: 2024-08-04 00:45 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 錯誤捕捉]
 ---
 ### 零、前言

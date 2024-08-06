@@ -2,7 +2,7 @@
 layout: post
 title: Python-5-資料類型— list、tuple —好用的資料儲存櫃
 date: 2024-08-03 22:32 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 資料結構]
 ---
 ### 零、前言

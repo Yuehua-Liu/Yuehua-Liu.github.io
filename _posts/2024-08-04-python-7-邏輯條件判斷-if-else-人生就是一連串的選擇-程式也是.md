@@ -2,7 +2,7 @@
 layout: post
 title: Python-7-邏輯條件判斷(if…else…)—人生就是一連串的選擇，程式也是！
 date: 2024-08-04 00:17 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, 邏輯判斷]
 ---
 ### 零、前言

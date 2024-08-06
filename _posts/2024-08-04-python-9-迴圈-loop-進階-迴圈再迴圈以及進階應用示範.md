@@ -2,7 +2,7 @@
 layout: post
 title: Python-9-迴圈(Loop)(進階)—迴圈再迴圈以及進階應用示範
 date: 2024-08-04 00:31 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [進階, 迴圈]
 ---
 ### 零、前言

@@ -2,7 +2,7 @@
 layout: post
 title: Python-10-Function—輪子只要造一次就好
 date: 2024-08-04 00:33 +0800
-categories: [超新手 Python 教學]
+categories: [超新手 Python 教學系列課程]
 tags: [基礎, Function]
 ---
 ### 零、前言
