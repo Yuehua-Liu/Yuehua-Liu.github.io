@@ -77,11 +77,11 @@ print(result)
 
 [带带弟弟OCR，纯VBA本地获取网络验证码整体解决方案-Excel VBA程序开发-ExcelHome技术论坛 -](https://club.excelhome.net/thread-1666823-1-1.html)
 
-1. ddddocr Rust 版本
+2. ddddocr Rust 版本
 
 [GitHub - 86maid/ddddocr: ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，a simple OCR API server, very easy to deploy。](https://github.com/86maid/ddddocr)
 
-1. ddddocr 部署 fastapi 服務
+3. ddddocr 部署 fastapi 服務
 
 [GitHub - sml2h3/ddddocr-fastapi: 使用ddddocr的最简api搭建项目，支持docker](https://github.com/sml2h3/ddddocr-fastapi?tab=readme-ov-file)
 ---
