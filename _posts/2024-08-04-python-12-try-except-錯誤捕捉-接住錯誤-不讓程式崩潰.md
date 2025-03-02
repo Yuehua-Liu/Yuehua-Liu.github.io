@@ -4,6 +4,9 @@ title: Python-12-try…except 錯誤捕捉—接住錯誤，不讓程式崩潰
 date: 2024-08-04 00:45 +0800
 categories: [超新手 Python 教學系列課程]
 tags: [基礎, 錯誤捕捉]
+image:
+    path: /assets/img/post_img/Python-0-程式設計入門：淺顯易懂的基礎介紹%20f4f5613bb0b84a269c7899042f9a7014/Untitled.png
+    alt: Python 程式設計入門系列
 ---
 ### 零、前言
 

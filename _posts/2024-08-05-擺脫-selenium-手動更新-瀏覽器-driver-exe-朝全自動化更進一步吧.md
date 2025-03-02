@@ -4,6 +4,9 @@ title: 擺脫 Selenium 手動更新 瀏覽器 driver.exe，朝全自動化更進
 date: 2024-08-05 20:48 +0800
 categories: 技術分享
 tags: [爬蟲, Selenium, 自動化測試, 版本差異]
+image:
+    path: /assets/img/post_img/2024-08-05/selenium_cover.png
+    alt: Selenium driver 自動更新技巧
 ---
 
 ### 零、前言
@@ -13,6 +16,7 @@ tags: [爬蟲, Selenium, 自動化測試, 版本差異]
 這個過程不僅繁瑣，還容易因為驅動版本與瀏覽器版本不匹配而導致錯誤。
 
 因此，如何自動化管理 Selenium 驅動的更新，成為了使用者們非常關心的議題。在這篇文章中，我們將探討如何透過不同版本的 Selenium，自動更新並管理瀏覽器驅動程式，以提升自動化測試的效率。
+![Untitled](/assets/img/post_img/2024-08-05/selenium_cover.png)
 
 ### 一、Selenium Driver 版本更新自動化 (以 Chrome 為例)
 

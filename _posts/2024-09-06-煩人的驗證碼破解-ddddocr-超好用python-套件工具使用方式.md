@@ -4,6 +4,9 @@ title: 煩人的驗證碼破解，ddddocr 超好用Python 套件工具使用方�
 date: 2024-09-06 18:24 +0800
 categories: [技術分享]
 tags: [爬蟲, Selenium, 驗證碼處理]
+image:
+    path: /assets/img/post_img/2024-09-06/ddddocr_cover.png
+    alt: ddddocr 好用工具介紹
 ---
 
 ## 零、前言

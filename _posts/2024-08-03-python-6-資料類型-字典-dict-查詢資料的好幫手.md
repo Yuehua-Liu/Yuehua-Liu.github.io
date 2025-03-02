@@ -4,6 +4,9 @@ title: Python-6-資料類型—字典 Dict—查詢資料的好幫手
 date: 2024-08-03 22:38 +0800
 categories: [超新手 Python 教學系列課程]
 tags: [基礎, 資料結構]
+image:
+    path: /assets/img/post_img/Python-0-程式設計入門：淺顯易懂的基礎介紹%20f4f5613bb0b84a269c7899042f9a7014/Untitled.png
+    alt: Python 程式設計入門系列
 ---
 ### 零、前言
 

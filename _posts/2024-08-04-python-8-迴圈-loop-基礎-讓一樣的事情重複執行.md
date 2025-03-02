@@ -4,6 +4,9 @@ title: Python-8-迴圈(Loop)(基礎)—讓一樣的事情重複執行！
 date: 2024-08-04 00:20 +0800
 categories: [超新手 Python 教學系列課程]
 tags: [基礎, 迴圈]
+image:
+    path: /assets/img/post_img/Python-0-程式設計入門：淺顯易懂的基礎介紹%20f4f5613bb0b84a269c7899042f9a7014/Untitled.png
+    alt: Python 程式設計入門系列
 ---
 ### 零、前言
 
