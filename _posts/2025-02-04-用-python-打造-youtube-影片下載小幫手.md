@@ -5,7 +5,7 @@ date: 2025-02-04 19:17 +0800
 categories: 技術分享
 tags: [爬蟲, 自動化, 多媒體]
 image:
-    path: /assets/img/post_img/2025-02-06/pytube_cover.png
+    path: /assets/img/post_img/2025-02-04/pytube_cover.png
     alt: 用 Python 打造 Youtube 影片下載小幫手
 ---
 
