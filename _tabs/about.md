@@ -5,6 +5,7 @@ order: 4
 ---
 
 ## 【簡介】
+[Nepal Nallu - Under Himalaya](/assets/img/avatar/about_cover.jpg){style="float: right; width: 150px; margin-left: 10px;"}
 
 我是 Yuehua-Liu (樺哥)
 
